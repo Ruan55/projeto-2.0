@@ -9,3 +9,7 @@ a{
 strong{
     font-weight: bold;
 }
+
+p{
+    color: red;
+}
